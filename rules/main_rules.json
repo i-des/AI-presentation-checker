@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "description": "Основной индекс для всех правил шаблонов Slidy",
+  "chapters": [
+    "chapter_1.0/rules_chapter_1.json",
+    "chapter_2.0/rules_chapter_2.json",
+    "chapter_3.0/rules_chapter_3.json",
+    "chapter_3.1/rules_chapter_3.1.json",
+    "chapter_3.2/rules_chapter_3.2.json",
+    "chapter_3.3/rules_chapter_3.3.json",
+    "chapter_3.4/rules_chapter_3.4.json",
+    "chapter_3.5/rules_chapter_3.5.json",
+    "chapter_3.6/rules_chapter_3.6.json",
+    "chapter_3.7/rules_chapter_3.7.json",
+    "chapter_3.8/rules_chapter_3.8.json",
+    "chapter_3.9/rules_chapter_3.9.json",
+    "chapter_4.0/rules_chapter_4.json",
+    "chapter_5.0/rules_chapter_5.json",
+    "chapter_6.0/rules_chapter_6.json",
+    "chapter_7.0/rules_chapter_7.json"
+  ]
+}

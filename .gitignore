@@ -1,0 +1,6 @@
+.DS_Store
+last_response_id.txt
+presentations_results.csv
+templates/
+export_slides.py
+__pycache__/
