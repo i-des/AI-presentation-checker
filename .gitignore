@@ -4,3 +4,4 @@ presentations_results.csv
 templates/
 export_slides.py
 __pycache__/
+old_templates/
